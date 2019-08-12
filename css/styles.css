@@ -15,20 +15,20 @@ body {
   top;0;
   width:100%;
 }
-projects img {
+#projects img {
   border-radius:500px
 }
-/*h1{
+h1{
   text-decoration: underline;
-}*/
-/*h3{
+}
+h3{
   text-decoration: underline;
 
-}*/
-/*.centre{
+}
+.centre{
   text-align: center;
   font-size: 30px;
-}*/
-/*#ima{
+}
+#ima{
   padding-left: 800px;
-}*/
+}
