@@ -18,7 +18,7 @@ body {
   width:100%;
 }
 #projects img {
-  border-radius:500px
+  border-radius:500px;
 }
 h1{
   text-decoration: underline;
@@ -33,4 +33,7 @@ h3{
 }
 #ima{
   padding-left: 800px;
+}
+#about{
+  padding-top: 100px;
 }
