@@ -11,6 +11,7 @@
  Where i have kept links to my projects thst have done .
    ### About me
    where i have shown about my educational background and why i love coding .
+
    ### contact information
 where i have kept my contact details incase you want to get in touch.
 

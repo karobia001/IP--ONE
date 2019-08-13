@@ -1,9 +1,11 @@
 #home img{
     border-radius: 2500px;
     border: 2px solid black;
+  
 }
 #home{
-    text-align: center
+    text-align: center;
+    padding-top: 20px;
 }
 body {
   background-color:azure;
